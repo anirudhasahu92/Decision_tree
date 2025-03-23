@@ -81,4 +81,4 @@ The project utilized publically available Pokémon dataset.
 
 ## Contributor
 
-Anirudha Kumar Sahu [https://github.com/anirudhasahu92]
+[Anirudha Kumar Sahu](https://github.com/anirudhasahu92)
